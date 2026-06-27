@@ -1,2 +1,3 @@
 === LỊCH SỬ THỰC HÀNH PYTHON ===
 [2026-06-27 10:15:00] Ngay 2026-06-27 - Hoan thanh bai tap thuc hanh Python lan thu 1/10
+[2026-06-27 11:15:00] Ngay 2026-06-27 - Hoan thanh bai tap thuc hanh Python lan thu 2/10
