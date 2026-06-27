@@ -3,3 +3,4 @@
 [2026-06-27 11:15:00] Ngay 2026-06-27 - Hoan thanh bai tap thuc hanh Python lan thu 2/10
 [2026-06-27 12:15:00] Ngay 2026-06-27 - Hoan thanh bai tap thuc hanh Python lan thu 3/10
 [2026-06-27 13:15:00] Ngay 2026-06-27 - Hoan thanh bai tap thuc hanh Python lan thu 4/10
+[2026-06-27 14:15:00] Ngay 2026-06-27 - Hoan thanh bai tap thuc hanh Python lan thu 5/10
