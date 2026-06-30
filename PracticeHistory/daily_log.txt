@@ -38,3 +38,4 @@
 [2026-06-30 16:15:00] Ngay 2026-06-30 - Hoan thanh bai tap thuc hanh Python lan thu 7/10
 [2026-06-30 17:15:00] Ngay 2026-06-30 - Hoan thanh bai tap thuc hanh Python lan thu 8/10
 [2026-06-30 18:15:00] Ngay 2026-06-30 - Hoan thanh bai tap thuc hanh Python lan thu 9/10
+[2026-06-30 19:15:00] Ngay 2026-06-30 - Hoan thanh bai tap thuc hanh Python lan thu 10/10
