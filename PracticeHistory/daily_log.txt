@@ -121,3 +121,4 @@
 [2026-07-08 19:15:00] Ngay 2026-07-08 - Hoan thanh bai tap thuc hanh Python lan thu 10/10
 [2026-07-09 10:15:00] Ngay 2026-07-09 - Hoan thanh bai tap thuc hanh Python lan thu 1/10
 [2026-07-09 11:15:00] Ngay 2026-07-09 - Hoan thanh bai tap thuc hanh Python lan thu 2/10
+[2026-07-09 12:15:00] Ngay 2026-07-09 - Hoan thanh bai tap thuc hanh Python lan thu 3/10
