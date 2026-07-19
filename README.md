@@ -61,6 +61,24 @@ Dưới đây là chi tiết nội dung các tệp mã nguồn có trong kho lư
   * Tách và gộp chuỗi bằng phương thức `split()` và `join()`.
   * Hiểu tính chất bất biến (immutable) của chuỗi trong Python.
 
+### 7. [CauTrucReNhanh/If - Elif - Else.py](file:///d:/Workspace/University/Python/CauTrucReNhanh/If%20-%20Elif%20-%20Else.py)
+* **Nội dung:** Cấu trúc rẽ nhánh cơ bản trong Python.
+* **Chi tiết:**
+  * Cấu trúc rẽ nhánh cơ bản với `if`.
+  * Cấu trúc hai nhánh `if - else`.
+  * Cấu trúc nhiều nhánh `if - elif - else` phân loại học lực học sinh.
+  * Kết hợp nhiều điều kiện logic bằng các toán tử `and`, `or`, `not`.
+
+### 8. [CauTrucReNhanh/BieuThucDieuKienNangCao.py](file:///d:/Workspace/University/Python/CauTrucReNhanh/BieuThucDieuKienNangCao.py)
+* **Nội dung:** Biểu thức so sánh nâng cao và các kỹ thuật tối ưu hóa điều kiện rẽ nhánh.
+* **Chi tiết:**
+  * Chained Comparison (So sánh chuỗi liên tục) giúp biểu thức điều kiện gọn gàng hơn.
+  * Biểu thức điều kiện viết ngắn trên 1 dòng (Ternary Operator).
+  * Sử dụng toán tử `in` / `not in` kiểm tra phần tử trong danh sách hoặc kiểm tra chuỗi con.
+  * Thay thế cấu trúc `if-elif` phức tạp bằng toán tử kiểm tra thành viên `in`.
+  * Các ứng dụng thực tế: Tính toán BMI và kiểm tra thông tin đăng nhập tài khoản.
+
 ---
 Chúc bạn học tập Python thật hiệu quả! 🚀
+
 
