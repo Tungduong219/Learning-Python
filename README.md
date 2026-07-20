@@ -78,7 +78,18 @@ Dưới đây là chi tiết nội dung các tệp mã nguồn có trong kho lư
   * Thay thế cấu trúc `if-elif` phức tạp bằng toán tử kiểm tra thành viên `in`.
   * Các ứng dụng thực tế: Tính toán BMI và kiểm tra thông tin đăng nhập tài khoản.
 
+### 9. [ListCoBan&For/list_va_for.py](file:///d:/Workspace/University/Python/ListCoBan%26For/list_va_for.py)
+* **Nội dung:** Danh sách (List) cơ bản và vòng lặp `for` trong Python.
+* **Chi tiết:**
+  * Khởi tạo List (chuỗi, số, hỗn hợp, danh sách rỗng) và kiểm tra độ dài với `len()`.
+  * Truy cập và chỉnh sửa phần tử bằng chỉ mục dương và âm.
+  * Duyệt qua các phần tử trong List bằng vòng lặp `for`.
+  * Tạo dãy số linh hoạt với hàm `range()` (`range(stop)`, `range(start, stop)`, `range(start, stop, step)` và đếm ngược).
+  * Kết hợp `for`, `range()` và chỉ mục để quản lý danh sách.
+  * Sử dụng hàm `enumerate()` lấy đồng thời chỉ mục (index) và giá trị của từng phần tử.
+
 ---
 Chúc bạn học tập Python thật hiệu quả! 🚀
+
 
 
