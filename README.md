@@ -98,8 +98,19 @@ Dưới đây là chi tiết nội dung các tệp mã nguồn có trong kho lư
   * Lệnh `pass` đóng vai trò là giữ chỗ (placeholder) khi chưa có mã xử lý.
   * Kỹ thuật vòng lặp vô hạn `while True` kết hợp điều kiện thoát với `break`.
 
+### 11. [ListCoBan&For/list_methods.py](file:///d:/Workspace/University/Python/ListCoBan%26For/list_methods.py)
+* **Nội dung:** Các phương thức (methods) thao tác với List trong Python.
+* **Chi tiết:**
+  * Thêm phần tử: `append()`, `insert()`, `extend()` và phân biệt `append` vs `extend`.
+  * Xóa phần tử: `remove()`, `pop()`, `pop(index)` và `del`.
+  * Sắp xếp và đảo ngược: `sort()`, `sort(reverse=True)`, `sorted()`, `reverse()`, `[::-1]`.
+  * Tìm kiếm và đếm: `index()`, `count()`, kiểm tra sự tồn tại với toán tử `in`.
+  * Các hàm thống kê: `len()`, `sum()`, `min()`, `max()`, và tính điểm trung bình.
+  * Ví dụ ứng dụng thực tế quản lý danh sách sinh viên.
+
 ---
 Chúc bạn học tập Python thật hiệu quả! 🚀
+
 
 
 
