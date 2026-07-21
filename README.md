@@ -117,8 +117,18 @@ Dưới đây là chi tiết nội dung các tệp mã nguồn có trong kho lư
   * Kiểm tra chuỗi rỗng và loại bỏ khoảng trắng thừa với `.strip()`.
   * Kiểm tra miền giá trị hợp lệ của số nhập vào.
 
+### 13. [funtion/funtion.py](file:///d:/Workspace/University/Python/funtion/funtion.py)
+* **Nội dung:** Khái niệm và cách định nghĩa Hàm (Functions) trong Python.
+* **Chi tiết:**
+  * Định nghĩa hàm cơ bản với từ khóa `def` và truyền tham số (Parameters).
+  * Lệnh `return` trả về giá trị (và dừng hàm ngay lập tức).
+  * Trả về nhiều giá trị cùng lúc (Multiple Return Values / Tuple Unpacking).
+  * Viết tài liệu hướng dẫn Docstring (`"""..."""`) cho hàm.
+  * Phân biệt hàm có `return` và hàm không có `return` (mặc định trả về `None`).
+
 ---
 Chúc bạn học tập Python thật hiệu quả! 🚀
+
 
 
 
