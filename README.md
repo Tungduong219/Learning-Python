@@ -143,8 +143,32 @@ Dưới đây là chi tiết nội dung các tệp mã nguồn có trong kho lư
   * Ứng dụng Lambda làm `key` khi sắp xếp danh sách với `sorted()`.
   * Kết hợp Lambda với các hàm xử lý tập hợp `map()` và `filter()`.
 
+### 16. [ListNangCao_Tuple/ListConprehension.py](file:///d:/Workspace/University/Python/ListNangCao_Tuple/ListConprehension.py)
+* **Nội dung:** Khởi tạo danh sách bằng List Comprehension.
+* **Chi tiết:**
+  * Cú pháp tạo list nhanh viết gọn trong 1 dòng.
+  * Lọc phần tử bằng điều kiện `if`.
+  * Thay đổi giá trị phần tử với cấu trúc `if-else` trong list comprehension.
+  * Phép toán trên danh sách lồng nhau (ma trận) và trải phẳng danh sách (flattening).
+
+### 17. [ListNangCao_Tuple/Tuple, enumerate, zip, sorted.py](file:///d:/Workspace/University/Python/ListNangCao_Tuple/Tuple,%20enumerate,%20zip,%20sorted.py)
+* **Nội dung:** Kiểu dữ liệu Tuple (Bất biến) và kỹ thuật giải nén Unpacking.
+* **Chi tiết:**
+  * Khởi tạo Tuple, tính chất bất biến của Tuple.
+  * Kỹ thuật giải nén cơ bản (Unpacking Tuple).
+  * Sử dụng toán tử `*` gom các phần tử còn lại (Extended Unpacking).
+
+### 18. [ListNangCao_Tuple/slicing_nang_cao.py](file:///d:/Workspace/University/Python/ListNangCao_Tuple/slicing_nang_cao.py)
+* **Nội dung:** Cắt lát danh sách nâng cao (Slicing) và sao chép danh sách.
+* **Chi tiết:**
+  * Cú pháp slicing đầy đủ `[start:stop:step]` và các chỉ số âm.
+  * Thay thế phần tử trong danh sách bằng slicing.
+  * Xử lý List lồng nhau (List 2D).
+  * Bẫy sao chép danh sách (Copy vs Reference), phân biệt sao chép nông (shallow copy) và sao chép sâu (deepcopy).
+
 ---
 Chúc bạn học tập Python thật hiệu quả! 🚀
+
 
 
 
