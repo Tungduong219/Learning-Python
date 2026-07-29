@@ -166,8 +166,20 @@ Dưới đây là chi tiết nội dung các tệp mã nguồn có trong kho lư
   * Xử lý List lồng nhau (List 2D).
   * Bẫy sao chép danh sách (Copy vs Reference), phân biệt sao chép nông (shallow copy) và sao chép sâu (deepcopy).
 
+### 19. [dictionary.py](file:///d:/Workspace/University/Python/dictionary.py)
+* **Nội dung:** Cấu trúc dữ liệu Từ điển (Dictionary) trong Python.
+* **Chi tiết:**
+  * Khởi tạo Dictionary bằng ngoặc nhọn `{}` hoặc hàm dựng `dict()`.
+  * Truy cập, cập nhật giá trị và thêm cặp key-value mới.
+  * Truy cập an toàn bằng phương thức `.get()` tránh lỗi `KeyError`.
+  * Xóa phần tử bằng `del` và `.pop()`.
+  * Duyệt qua Dictionary sử dụng `.keys()`, `.values()`, `.items()`.
+  * Các phương thức nâng cao: `.setdefault()`, `.update()` gộp từ điển.
+  * Ứng dụng đếm tần suất xuất hiện của từ trong chuỗi văn bản.
+
 ---
 Chúc bạn học tập Python thật hiệu quả! 🚀
+
 
 
 
