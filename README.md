@@ -166,7 +166,7 @@ Dưới đây là chi tiết nội dung các tệp mã nguồn có trong kho lư
   * Xử lý List lồng nhau (List 2D).
   * Bẫy sao chép danh sách (Copy vs Reference), phân biệt sao chép nông (shallow copy) và sao chép sâu (deepcopy).
 
-### 19. [dictionary.py](file:///d:/Workspace/University/Python/dictionary.py)
+### 19. [Dictiondary & Set/dictionary.py](file:///d:/Workspace/University/Python/Dictiondary%20%26%20Set/dictionary.py)
 * **Nội dung:** Cấu trúc dữ liệu Từ điển (Dictionary) trong Python.
 * **Chi tiết:**
   * Khởi tạo Dictionary bằng ngoặc nhọn `{}` hoặc hàm dựng `dict()`.
@@ -176,6 +176,21 @@ Dưới đây là chi tiết nội dung các tệp mã nguồn có trong kho lư
   * Duyệt qua Dictionary sử dụng `.keys()`, `.values()`, `.items()`.
   * Các phương thức nâng cao: `.setdefault()`, `.update()` gộp từ điển.
   * Ứng dụng đếm tần suất xuất hiện của từ trong chuỗi văn bản.
+
+### 20. [Dictiondary & Set/dict_comprehension_and_nested_dict.py](file:///d:/Workspace/University/Python/Dictiondary%20%26%20Set/dict_comprehension_and_nested_dict.py)
+* **Nội dung:** Cấu trúc từ điển lồng nhau (Nested Dictionary) và Dictionary Comprehension.
+* **Chi tiết:**
+  * Tạo từ điển nhanh bằng Dictionary Comprehension với các điều kiện lọc.
+  * Ghép cặp 2 danh sách thành từ điển bằng `zip()`.
+  * Khởi tạo, truy cập và cập nhật từ điển lồng nhau nhiều cấp.
+  * Sử dụng `defaultdict(list)` để nhóm các phần tử và gom nhóm hóa đơn.
+
+### 21. [Dictiondary & Set/Set.py](file:///d:/Workspace/University/Python/Dictiondary%20%26%20Set/Set.py)
+* **Nội dung:** Cấu trúc dữ liệu Tập hợp (Set) trong Python.
+* **Chi tiết:**
+  * Khởi tạo tập hợp Set (không trùng lặp, không thứ tự) và ép kiểu từ danh sách.
+  * Phân biệt cách khai báo dictionary rỗng `{}` và tập hợp rỗng `set()`.
+  * Thêm phần tử vào tập hợp bằng phương thức `add()`.
 
 ---
 Chúc bạn học tập Python thật hiệu quả! 🚀
