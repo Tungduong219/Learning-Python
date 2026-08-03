@@ -192,8 +192,21 @@ Dưới đây là chi tiết nội dung các tệp mã nguồn có trong kho lư
   * Phân biệt cách khai báo dictionary rỗng `{}` và tập hợp rỗng `set()`.
   * Thêm phần tử vào tập hợp bằng phương thức `add()`.
 
+### 22. [ThucHanh/QuanLySinhVien.py](file:///d:/Workspace/University/Python/ThucHanh/QuanLySinhVien.py)
+* **Nội dung:** Bài thực hành tính điểm trung bình học tập của sinh viên.
+* **Chi tiết:**
+  * Tính điểm trung bình (Average Score) từ danh sách điểm của từng sinh viên.
+  * Sắp xếp danh sách sinh viên giảm dần theo điểm trung bình bằng `sorted()` và hàm ẩn danh `lambda`.
+
+### 23. [ThucHanh/dem tu.py](file:///d:/Workspace/University/Python/ThucHanh/dem%20tu.py)
+* **Nội dung:** Bài thực hành đếm tần suất xuất hiện của từ trong chuỗi.
+* **Chi tiết:**
+  * Sử dụng thư viện `collections.Counter` để thống kê số lần xuất hiện của các từ.
+  * Xử lý ngoại lệ đầu vào bằng `raise TypeError` khi dữ liệu không phải kiểu chuỗi (`str`).
+
 ---
 Chúc bạn học tập Python thật hiệu quả! 🚀
+
 
 
 
