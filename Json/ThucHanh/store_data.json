@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "in_stock": true,
+        "name": "Bàn phím cơ",
+        "price": 1200000
+    },
+    {
+        "id": 2,
+        "in_stock": false,
+        "name": "Chuột không dây",
+        "price": 450000
+    },
+    {
+        "id": 3,
+        "in_stock": true,
+        "name": "Màn hình 24 inch",
+        "price": 3200000
+    }
+]
