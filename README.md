@@ -217,6 +217,27 @@ Dưới đây là chi tiết nội dung các tệp mã nguồn có trong kho lư
   * Đọc dữ liệu biến môi trường với phương thức `.get()` có giá trị mặc định fallback.
   * Xử lý đọc tệp JSON sử dụng khối lệnh `try - except` để bắt lỗi ngoại lệ `FileNotFoundError` và `json.JSONDecodeError`.
 
+### 26. [Json/Json.py](file:///d:/Workspace/University/Python/Json/Json.py)
+* **Nội dung:** Khái quát về định dạng dữ liệu JSON (JavaScript Object Notation) trong Python.
+
+### 27. [Json/ThucHanh/Bai_1.py](file:///d:/Workspace/University/Python/Json/ThucHanh/Bai_1.py)
+* **Nội dung:** Thực hành phân tích (parse) chuỗi JSON và tuần tự hóa (serialize) đối tượng trong Python.
+* **Chi tiết:**
+  * Chuyển đổi chuỗi JSON thành Dictionary bằng `json.loads()`.
+  * Chuyển đổi ngược lại Dictionary thành chuỗi JSON đẹp mắt bằng `json.dumps()` với các tham số `indent`, `ensure_ascii`, và `sort_keys`.
+
+### 28. [Json/ThucHanh/Bai_2.py](file:///d:/Workspace/University/Python/Json/ThucHanh/Bai_2.py)
+* **Nội dung:** Đọc và ghi dữ liệu ra tệp tin định dạng `.json`.
+* **Chi tiết:**
+  * Ghi danh sách sản phẩm trực tiếp vào tệp tin JSON bằng `json.dump()`.
+  * Đọc lại dữ liệu từ tệp tin JSON bằng `json.load()` và lọc các sản phẩm còn hàng.
+
+### 29. [Json/ThucHanh/Bai_3.py](file:///d:/Workspace/University/Python/Json/ThucHanh/Bai_3.py)
+* **Nội dung:** Bài thực hành tổng hợp xử lý mảng JSON học sinh và lưu trữ kết quả.
+* **Chi tiết:**
+  * Tính toán điểm trung bình GPA của từng học sinh từ dữ liệu JSON.
+  * Xuất danh sách học sinh xuất sắc và GPA tương ứng ra tệp tin JSON mới.
+
 ---
 Chúc bạn học tập Python thật hiệu quả! 🚀
 
