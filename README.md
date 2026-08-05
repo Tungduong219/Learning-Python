@@ -204,6 +204,19 @@ Dưới đây là chi tiết nội dung các tệp mã nguồn có trong kho lư
   * Sử dụng thư viện `collections.Counter` để thống kê số lần xuất hiện của các từ.
   * Xử lý ngoại lệ đầu vào bằng `raise TypeError` khi dữ liệu không phải kiểu chuỗi (`str`).
 
+### 24. [BienMoiTruong/__init__.py](file:///d:/Workspace/University/Python/BienMoiTruong/__init__.py)
+* **Nội dung:** Bài học về biến môi trường (Environment Variables) và định dạng JSON.
+* **Chi tiết:**
+  * Lấy thông tin hệ điều hành bằng `os.name`.
+  * Đọc và ghi biến môi trường sử dụng `os.environ`.
+  * Đóng gói kiểu dữ liệu Dictionary thành Chuỗi JSON đẹp mắt bằng `json.dumps()`.
+
+### 25. [BienMoiTruong/ThucHanh.py](file:///d:/Workspace/University/Python/BienMoiTruong/ThucHanh.py)
+* **Nội dung:** Thực hành xử lý biến môi trường kết hợp với đọc tệp tin JSON và bắt lỗi.
+* **Chi tiết:**
+  * Đọc dữ liệu biến môi trường với phương thức `.get()` có giá trị mặc định fallback.
+  * Xử lý đọc tệp JSON sử dụng khối lệnh `try - except` để bắt lỗi ngoại lệ `FileNotFoundError` và `json.JSONDecodeError`.
+
 ---
 Chúc bạn học tập Python thật hiệu quả! 🚀
 
