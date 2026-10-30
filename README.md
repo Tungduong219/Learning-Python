@@ -238,6 +238,21 @@ Dưới đây là chi tiết nội dung các tệp mã nguồn có trong kho lư
   * Tính toán điểm trung bình GPA của từng học sinh từ dữ liệu JSON.
   * Xuất danh sách học sinh xuất sắc và GPA tương ứng ra tệp tin JSON mới.
 
+### 30. [Restful API/Phuong_thuc_GET.py](file:///d:/Workspace/University/Python/Restful%20API/Phuong_thuc_GET.py)
+* **Nội dung:** Thao tác với RESTful API trong Python sử dụng thư viện `requests`.
+* **Chi tiết:**
+  * Gửi GET request có kèm tham số truy vấn (`params`).
+  * Kiểm tra mã phản hồi HTTP (`response.status_code`).
+  * Chuyển đổi dữ liệu JSON trả về thành đối tượng Python (`response.json()`).
+  * Gửi POST request với dữ liệu JSON qua tham số `json`.
+  * Cấu hình Custom Headers (Content-Type, User-Agent, Authorization Bearer token).
+
+### 31. [Ai_Engineer/01_Python_Basic/Day1/hello.py](file:///d:/Workspace/University/Python/Ai_Engineer/01_Python_Basic/Day1/hello.py)
+* **Nội dung:** Khởi động lộ trình AI Engineer - Bài học Day 1: Hello World.
+* **Chi tiết:**
+  * Cấu trúc thư mục học tập lộ trình AI Engineer cơ bản.
+  * Khởi tạo chương trình Python đầu tiên `hello.py`.
+
 ---
 Chúc bạn học tập Python thật hiệu quả! 🚀
 
