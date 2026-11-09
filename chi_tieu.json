@@ -1,0 +1,12 @@
+[
+    {
+        "ten_khoan": "Mua bánh mì",
+        "so_tien": 150000,
+        "danh_muc": "Ăn uống"
+    },
+    {
+        "ten_khoan": "Mua ô tô",
+        "so_tien": 900000,
+        "danh_muc": "đẹp"
+    }
+]
